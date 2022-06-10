@@ -1,3 +1,3 @@
 # WorkHardTravelHardApp
 
-React Native를 활용한 ToDo 앱
+React Native(EXPO)를 활용한 ToDo 앱
